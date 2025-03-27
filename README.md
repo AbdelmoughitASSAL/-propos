@@ -4,8 +4,9 @@ Titulaire d’un Master en Ingénierie de la Décision de la FEG Settat, avec un
 
 Mon parcours inclut une expérience approfondie en Python pour l’analyse de données, Power BI pour la création de tableaux de bord interactifs,  ainsi qu’une expertise en money management appliqué au trading algorithmique. Je suis passionné par l'exploration des données et la mise en place de solutions analytiques permettant d'optimiser la prise de décision
 
-COMPÉTENCES : Python, SQL, Machine Learning, Power BI, Tableau, Excel, SPSS, Statistiques et Probabilités, and Business Intelligence,
+**PORTFOLIO**: [**A.ASSAL-Portfolio**](https://github.com/AbdelmoughitASSAL/A.ASSAL-Portfolio)  
 
+**COMPÉTENCES** : *Python, SQL, Machine Learning, Power BI, Tableau, Excel, SPSS, Statistiques et Probabilités, Business Intelligence*
 ## Contacts
 - LinkedIn: [@abdelmoughit-assal](https://www.linkedin.com/in/abdelmoughit-assal/)
 - Email : abdelmoughit.assal@yahoo.com
